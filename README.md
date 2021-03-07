@@ -1,1 +1,1 @@
-# code_signal
+# Solutions to code signal challenges
